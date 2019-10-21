@@ -1,6 +1,3 @@
 agua
-<<<<<<< HEAD
 cocacola
-=======
 Mountain Dew
->>>>>>> master
